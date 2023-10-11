@@ -1,0 +1,112 @@
+#main{
+	margin:  0 auto;
+	width:  100%;
+	background-color: white;
+}
+p{
+	padding-top: 25px;
+}
+#menu{
+	width: 150%;
+	float: left;
+	padding-top: 30px;
+	background-color: #7FFFD4;
+	height:  70px;
+	/*margin:  0px 20px 0px 20px;*/
+}
+.photo{
+	display: block;
+	width: 20%;
+	font-size: 30px;
+	height: 250px;
+	float: left; 
+	padding-top: 10px;
+}
+#text{
+	padding-top: 20px;
+	width:  100%;
+	color: #000;
+	margin-right: 30px;
+}
+ul {
+    display: block;
+    list-style-type:upper-alpha;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
+}
+
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+#menu ul li{
+	font-weight: 50px;
+	display:  inline-block;
+	width: 250px;
+	height: 55px;
+	text-align: center;
+	text-transform: uppercase;
+}
+#menu ul li:hover{
+	border-bottom: solid 5px purple;
+
+}
+body{
+	background-color:  #e3e3e3;
+}
+
+
+
+ .situation label {
+ 	font-weight: bold;
+ 	font-size: 20px;
+
+ }
+ .sexe label{
+ 		font-weight: bold;
+ 		font-size: 20px;
+
+ }
+ .Formulaire legend{
+ 	font-weight: bold;
+ 	font-size: 25px;
+ }
+ img{
+ 	font-size: 50px;
+ }
+
+
+.texte2{
+	padding-top: 20px;
+}
+
+fieldset {
+	margin-top: 30px;
+    display: block;
+    margin-inline-start: 2px;
+    margin-inline-end: 2px;
+    padding-block-start: 0.35em;
+    padding-inline-start: 0.75em;
+    padding-inline-end: 0.75em;
+    padding-block-end: 0.625em;
+    min-inline-size: min-content;
+    border-width: 3px;
+    border-style: groove;
+    border-color: rgb(192, 192, 192);
+    border-image: initial;
+}
+
+fieldset {
+	margin top:50px;
+}
+
+label,input{
+	margin-bottom: 15px;
+}
